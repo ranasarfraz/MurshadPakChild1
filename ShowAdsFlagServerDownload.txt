@@ -100,7 +100,7 @@
       "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
+      "BundleVersionCode": "1.8"
     },
     {
       "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
