@@ -9,8 +9,8 @@
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
-      "BundleVersionCode": "2.7"
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "2.8"
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
@@ -98,8 +98,8 @@
     },
     {
       "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
       "BundleVersionCode": "1.8"
     },
     {
