@@ -133,10 +133,10 @@
       "BundleVersionCode": "1.1"
     },
     {
-      "BundleId": "com.ms.adspackagev57202021",
+      "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "1.0"
     }                                      
   ]
 }
