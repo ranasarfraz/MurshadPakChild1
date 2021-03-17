@@ -130,7 +130,7 @@
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
