@@ -124,7 +124,7 @@
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.3"
+      "BundleVersionCode": "1.4"
     },
     {
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
