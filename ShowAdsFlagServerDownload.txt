@@ -137,6 +137,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
-    }                                      
+    },
+    {
+      "BundleId": "com.epicboltactiongames.spider.tank.robotshooting.car.game.flyingrobot.elephant.war2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
+    }                                       
   ]
 }
