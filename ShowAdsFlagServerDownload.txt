@@ -88,13 +88,13 @@
       "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "1.3"
     },
     {
       "BundleId": "com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
@@ -118,13 +118,13 @@
       "BundleId": "com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
@@ -136,13 +136,13 @@
       "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.epicboltactiongames.spider.tank.robotshooting.car.game.flyingrobot.elephant.war2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     }                                       
   ]
 }
