@@ -148,7 +148,7 @@
       "BundleId": "com.extremesimulator.gangstar.burgerderby.burgerdemolitionderby.tdm.burgerfight",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     }                                       
   ]
 }
