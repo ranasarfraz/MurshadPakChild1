@@ -154,6 +154,8 @@
       "BundleId": "com.msg.unityadspackagev6.1",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "1.2"
     }                                        
   ]
