@@ -151,7 +151,7 @@
       "BundleVersionCode": "1.2"
     },
     {
-      "BundleId": "com.msg.unityadspackagev6.1",
+      "BundleId": "com.msg.unityadspackagev6",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
