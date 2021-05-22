@@ -33,9 +33,9 @@
     {
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
@@ -61,9 +61,9 @@
     {
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
@@ -143,9 +143,9 @@
     {
       "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
