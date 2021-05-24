@@ -50,7 +50,11 @@
       "BundleId": "com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
-      "BundleVersionCode": "1.6"
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30"
     },
     {
       "BundleId": "com.extremesimulator.megaramp.monstertruck.mountainclimb.stunts.impossible.tracks4x4.shootinggame2020",
@@ -136,7 +140,11 @@
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
-      "BundleVersionCode": "1.5"
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
+      "BundleVersionCode": "1.5",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30"
     },
     {
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
