@@ -36,7 +36,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
@@ -192,7 +192,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
 	
