@@ -52,7 +52,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
@@ -112,7 +112,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "BundleVersionCode": "1.5",
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
@@ -150,7 +150,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.5",
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
@@ -176,7 +176,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.2",
+      "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
