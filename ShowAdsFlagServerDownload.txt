@@ -138,7 +138,7 @@
       "BundleId": "com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
