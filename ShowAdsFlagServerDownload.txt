@@ -148,7 +148,7 @@
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
