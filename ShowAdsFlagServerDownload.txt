@@ -60,7 +60,11 @@
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.6"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30"
     },
     {
       "BundleId": "com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020",
