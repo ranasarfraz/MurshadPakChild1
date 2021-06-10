@@ -22,9 +22,11 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "FAU"
     },
     {
       "BundleId": "com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games2020",
@@ -243,9 +245,11 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
 	
     }                                        
   ]
