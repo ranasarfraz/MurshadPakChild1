@@ -175,12 +175,14 @@
     {
       "BundleId": "com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.6",
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
@@ -196,7 +198,11 @@
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "BundleVersionCode": "1.2",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30"
     },
     {
       "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
