@@ -181,7 +181,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
@@ -189,12 +189,14 @@
     {
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.6",
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
