@@ -142,7 +142,7 @@
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "UAF"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
@@ -250,6 +250,18 @@
 	
     },
     {
+      "BundleId": "com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    },
+    {
       "BundleId": "com.msg.unityadspackagev6",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
@@ -260,7 +272,6 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
-	
-    }                                        
+    }                                          
   ]
 }
