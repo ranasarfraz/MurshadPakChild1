@@ -71,12 +71,14 @@
     {
       "BundleId": "com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
-      "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.8",
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.extremesimulator.megaramp.monstertruck.mountainclimb.stunts.impossible.tracks4x4.shootinggame2020",
@@ -87,12 +89,14 @@
     {
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
-      "ShowRewardedAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.extremesimulator.atv.quad.bike4x4.derby.atvderby.derbydemolition.atv.demolition.derby2021",
@@ -125,12 +129,14 @@
     {
       "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
-      "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.4",
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "35"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
@@ -225,7 +231,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.3",
+      "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
@@ -258,7 +264,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.0",
+      "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
