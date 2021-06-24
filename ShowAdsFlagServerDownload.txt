@@ -131,13 +131,13 @@
     {
       "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "20",
+      "RewardedAdDelayTime": "50",
       "AdNetworksPriority": "AFU"
     },
     {
