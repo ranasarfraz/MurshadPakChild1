@@ -222,7 +222,7 @@
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": false,
-      "BundleVersionCode": "1.3",
+      "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
