@@ -9,12 +9,14 @@
     {
       "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "BundleVersionCode": "3.0",
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "3.1",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
@@ -95,20 +97,22 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.5",
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extremesimulator.atv.quad.bike4x4.derby.atvderby.derbydemolition.atv.demolition.derby2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "BundleVersionCode": "1.5",
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
@@ -165,12 +169,14 @@
     {
       "BundleId": "com.extreme.simulator.boat.fishing.simulator.salmon.wild.fish.hunting",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "BundleVersionCode": "2.0",
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames",
