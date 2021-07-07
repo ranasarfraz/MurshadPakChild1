@@ -43,12 +43,14 @@
     {
       "BundleId": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
       "BundleVersionCode": "2.4",
       "InterstitialAdDelayTime": "10",
-      "RewardedAdDelayTime": "30"
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
     },
     {
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
