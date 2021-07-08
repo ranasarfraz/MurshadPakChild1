@@ -279,7 +279,7 @@
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.msg.unityadspackagev6",
