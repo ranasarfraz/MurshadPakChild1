@@ -1,0 +1,64 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.9",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    },
+    {
+      "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.5",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "50",
+      "AdNetworksPriority": "AFU"
+    },
+    {
+      "BundleId": "com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    },
+    {
+      "BundleId": "com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "2.0",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    },
+    {
+      "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.7",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    }                                  
+  ]
+}
