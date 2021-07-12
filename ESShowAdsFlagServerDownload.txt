@@ -55,10 +55,10 @@
     {
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.8",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30"
     },
