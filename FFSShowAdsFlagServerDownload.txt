@@ -59,6 +59,18 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
-    }                                  
+    },
+    {
+      "BundleId": "com.freefunsimulator.dragon.turtle.city.rescue.mission.wild.animalattack.games",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    }                                     
   ]
 }
