@@ -47,10 +47,10 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": true,
-      "BundleVersionCode": "2.5",
+      "BundleVersionCode": "2.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019",
