@@ -29,7 +29,7 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": false,
+      "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "10",
