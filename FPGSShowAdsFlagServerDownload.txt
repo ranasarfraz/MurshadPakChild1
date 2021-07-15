@@ -1,0 +1,28 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.freefunsimualtor.imposible.megaramp.monstertruckstunts.carstunts.crazy.ramp.stunt3d.cargames2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.9",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AFU"
+    },
+    {
+      "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.5",
+      "InterstitialAdDelayTime": "30",
+      "RewardedAdDelayTime": "50",
+      "AdNetworksPriority": "AFU"
+    }                                  
+  ]
+}
