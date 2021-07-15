@@ -13,16 +13,16 @@
       "AdNetworksPriority": "AFU"
     },
     {
-      "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
+      "BundleId": "com.freepicklegamesstudio.huntingclash.wild.deerhunter.animal.snipershooting.games",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "30",
-      "RewardedAdDelayTime": "50",
-      "AdNetworksPriority": "AFU"
+      "BundleVersionCode": "1.0.0",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     }                                  
   ]
 }
