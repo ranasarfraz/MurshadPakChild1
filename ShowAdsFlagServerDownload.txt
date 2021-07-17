@@ -197,7 +197,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": true,
-      "BundleVersionCode": "2.0",
+      "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AFU"
