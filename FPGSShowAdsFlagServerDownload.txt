@@ -3,10 +3,10 @@
     {
       "BundleId": "com.free.pickle.games.studio.heavy.excavator.city.construction.housebuilding.constructiongames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": false,
-      "HaveFacebookRewardedAd": false,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
       "BundleVersionCode": "1.0",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -15,14 +15,38 @@
     {
       "BundleId": "com.freepicklegamesstudio.huntingclash.wild.deerhunter.animal.snipershooting.games",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
-      "HaveFacebookRewardedAd": false,
+      "HaveFacebookRewardedAd": true,
       "BundleVersionCode": "1.0",
       "InterstitialAdDelayTime": "5",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                                  
+    },
+    {
+      "BundleId": "com.freepicklegamesstudio.train.robot.car.game.helicpter.transformation.games",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    },
+    {
+      "BundleId": "com.freepicklegamesstudio.real.train.crash.destruction.train.car.demolition.derby.simulator2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    }                                   
   ]
 }
