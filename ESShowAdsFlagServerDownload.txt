@@ -2,8 +2,8 @@
   "AdIds": [
     {
       "BundleId": "com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
-      "ShowAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.7"
     },
     {
@@ -21,10 +21,10 @@
     {
       "BundleId": "com.extreme.simulator.farming.simulation20.farmer.sim.modern.drone.heavy.tractor.farming.games2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -33,7 +33,7 @@
     {
       "BundleId": "com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "1.6",
@@ -46,7 +46,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "2.6",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -58,7 +58,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -67,7 +67,7 @@
     {
       "BundleId": "com.extremesimulator.megaramp.monstertruck.mountainclimb.stunts.impossible.tracks4x4.shootinggame2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.2"
     },
     {
@@ -85,19 +85,19 @@
     {
       "BundleId": "com.extreme.simulator.flying.car.transform.shooting.car.flying.robot.battle",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.extreme.simulator.city.tuk.tuk.rikshaw.d3d.chingchi.rikshaw.drive.simulation",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.8"
     },
     {
       "BundleId": "com.extreme.productions.gwadar.ship.simulator2019.boat.games",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "2.0",
@@ -119,7 +119,7 @@
     {
       "BundleId": "com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "1.5",
@@ -129,7 +129,7 @@
     {
       "BundleId": "com.extremesimulator.real.tractor.demolition.derby.real.tractor.farm.fight2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "1.3",
@@ -139,7 +139,7 @@
     {
       "BundleId": "com.extremesimulator.gangstar.burgerderby.burgerdemolitionderby.tdm.burgerfight",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "1.3",
@@ -152,7 +152,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -164,23 +164,35 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    } ,
+    },
     {
       "BundleId": "com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": true,
+      "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                         
+    },
+    {
+      "BundleId": "com.extremesimulator.spider.ropehero.rampcar.stunts.crazy.megaramps.carracing.games",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0.1",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    }                           
   ]
 }
