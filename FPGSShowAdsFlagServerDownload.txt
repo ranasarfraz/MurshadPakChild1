@@ -47,6 +47,18 @@
       "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                                   
+    },
+    {
+      "BundleId": "com.fpgs.traintrack.train.station.construction.simulator.excavatorgames",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "20",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    }                                    
   ]
 }
