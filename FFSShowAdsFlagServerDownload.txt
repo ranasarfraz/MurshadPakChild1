@@ -10,7 +10,7 @@
       "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.freefunsimulator.cityoiltanker.truckdrivinggames.oiltanker.offroadtruckdrivinggames2020",
@@ -22,7 +22,7 @@
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "50",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021",
@@ -46,7 +46,7 @@
       "BundleVersionCode": "2.1",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.freefunsimulator.monsterbusderby.derby.demolition.bus.destruction.battle.stunt.arena2021",
@@ -58,7 +58,7 @@
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.freefunsimulator.dragon.turtle.city.rescue.mission.wild.animalattack.games",
@@ -70,7 +70,7 @@
       "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     }                                     
   ]
 }
