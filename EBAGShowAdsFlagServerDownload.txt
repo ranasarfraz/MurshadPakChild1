@@ -8,9 +8,9 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "2.0",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
@@ -20,7 +20,7 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.7",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     },
@@ -32,7 +32,7 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     },
@@ -44,7 +44,7 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     },
@@ -56,7 +56,7 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.4",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF" 
     },
@@ -68,7 +68,7 @@
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.0",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF" 
     }                                       
