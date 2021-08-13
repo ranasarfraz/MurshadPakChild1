@@ -2,6 +2,6 @@
 {
     "FirstGameBundleID":"com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
     "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.car.demolition.derby.simulator.train.crash.destruction2021",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.freefunsimulator.monstertruck.demolitionderby.monster.truck.snowderbydemolition2020.truck.snowcrashderby2021"
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021"
 }
 
