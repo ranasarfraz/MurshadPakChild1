@@ -3,7 +3,7 @@
     {
       "BundleId": "com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -15,7 +15,7 @@
     {
       "BundleId": "com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -27,7 +27,7 @@
     {
       "BundleId": "com.epicboltactiongames.zombiefire2gunshootinggame.offlinedday.survivalzombie.shooting.game",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -39,7 +39,7 @@
     {
       "BundleId": "com.epicboltactiongames.spider.tank.robotshooting.car.game.flyingrobot.elephant.war2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -51,7 +51,7 @@
     {
       "BundleId": "com.epicboltactiongames.spider.crane.robot.car.game.crocodile.robot.games.monstertruckgames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -63,7 +63,7 @@
     {
       "BundleId": "com.ebag.killgame.deerhunting.freefire.sniperhunter.encounteranimals.huntinggames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,

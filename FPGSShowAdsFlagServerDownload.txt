@@ -3,7 +3,7 @@
     {
       "BundleId": "com.free.pickle.games.studio.heavy.excavator.city.construction.housebuilding.constructiongames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -15,7 +15,7 @@
     {
       "BundleId": "com.freepicklegamesstudio.huntingclash.wild.deerhunter.animal.snipershooting.games",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -27,7 +27,7 @@
     {
       "BundleId": "com.freepicklegamesstudio.train.robot.car.game.helicpter.transformation.games",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -39,7 +39,7 @@
     {
       "BundleId": "com.freepicklegamesstudio.real.train.crash.destruction.train.car.demolition.derby.simulator2021",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
@@ -51,7 +51,7 @@
     {
       "BundleId": "com.fpgs.traintrack.train.station.construction.simulator.excavatorgames",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
