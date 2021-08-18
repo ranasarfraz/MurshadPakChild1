@@ -51,7 +51,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.2",
+      "BundleVersionCode": "2.3",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
@@ -79,7 +79,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.1",
+      "BundleVersionCode": "1.2",
       "InterstitialAdDelayTime": "20",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
