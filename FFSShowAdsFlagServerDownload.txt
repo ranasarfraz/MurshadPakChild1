@@ -85,18 +85,32 @@
       "AdNetworksPriority": "AUF"
     },
     {
-      "BundleId": "com.freefunsimulator.sample",
-      "ShowAdsFlag": true,
+      "BundleId": "com.freefunsimulator.bikestunt.bikerace.mega.ramps.bike.stunts.master.bikegames",
+      "ShowAdsFlag": false,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": true,
-      "ShowBannerAdsFlag": true,
-      "ShowRewardedAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.7",
+      "BundleVersionCode": "1.0",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                                    
+    },
+    {
+      "BundleId": "com.freefunsimulator.carstunts.carracing.rampcar.extreme.spider.cargames",
+      "ShowAdsFlag": false,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": false,
+      "ShowRewardedAdsFlag": false,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "25",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    }                                     
   ]
 }
